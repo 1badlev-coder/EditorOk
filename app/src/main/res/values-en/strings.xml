@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Editor-Ok</string>
+    <string name="offline_banner">Offline mode. All data is saved on this device.</string>
+    <string name="online_banner">Network is available — you can sync with the server.</string>
+    <string name="conflict_title">Save conflict</string>
+    <string name="conflict_message">The document changed on the server. Replace the server version or save under a new name?</string>
+    <string name="conflict_replace">Replace</string>
+    <string name="conflict_rename">Save as new</string>
+    <string name="pin_title">Sign in to editor</string>
+    <string name="pin_hint">PIN code</string>
+    <string name="pin_enter">Sign in</string>
+    <string name="pin_checking">Checking…</string>
+    <string name="pin_account">Account:</string>
+    <string name="pin_logout">Log out</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_en">English</string>
+    <string name="lang_label">Language</string>
+</resources>

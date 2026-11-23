@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Splash: белый фон + анимация иконки; дальше Compose 10% → по экрану -->
+    <style name="Theme.EditorOk.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_icon_inset</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.EditorOk</item>
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+        <!-- Тёмная шторка + светлые символы (контраст) -->
+        <item name="android:statusBarColor">#0f172a</item>
+        <item name="android:navigationBarColor">#0f172a</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.EditorOk" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#0f172a</item>
+        <item name="android:navigationBarColor">#0f172a</item>
+        <item name="android:windowBackground">#f4f5f7</item>
+        <item name="android:colorBackground">#f4f5f7</item>
+        <item name="android:colorPrimary">#2563eb</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
