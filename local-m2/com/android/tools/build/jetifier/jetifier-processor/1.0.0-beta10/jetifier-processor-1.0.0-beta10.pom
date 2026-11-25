@@ -1,7 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project>
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.android.tools.build.jetifier</groupId>
-  <artifactId>jetifier-processor</artifactId>
-  <version>1.0.0-beta10</version>
-</project>
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd33b7bc3a334f068a5d330e5eeb13cf7ad07fff3a385c22ebc7040bd703d439
+size 231

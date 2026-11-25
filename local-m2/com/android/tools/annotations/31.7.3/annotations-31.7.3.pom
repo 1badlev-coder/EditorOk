@@ -1,22 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.android.tools</groupId>
-  <artifactId>annotations</artifactId>
-  <version>31.7.3</version>
-  <name>com.android.tools.annotations</name>
-  <url>http://tools.android.com/</url>
-  <licenses>
-    <license>
-      <name>The Apache Software License, Version 2.0</name>
-      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-      <distribution>repo</distribution>
-    </license>
-  </licenses>
-  <developers>
-    <developer>
-      <name>The Android Open Source Project</name>
-    </developer>
-  </developers>
-</project>
+version https://git-lfs.github.com/spec/v1
+oid sha256:2208238d471c0ab92c6ac7a059a0a9ec835d5ae1392aaf0bb24e455b70fd6b4b
+size 822
